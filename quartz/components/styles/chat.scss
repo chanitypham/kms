@@ -12,7 +12,7 @@
   overflow: hidden;
   background-color: var(--alice-blue);
   width: 280px;
-  max-width: 280px;
+  max-width: 400px;
   height: 450px;
   display: flex;
   flex-direction: column;
@@ -47,6 +47,7 @@
     overflow-y: scroll;
     display: flex;
     flex-direction: column;
+    scroll-behavior: smooth;
     & > .msg {
       max-width: 50%;
       padding: 0.5rem 0.9rem;
@@ -55,6 +56,10 @@
       margin: 0.5rem 0.2em;
       word-wrap: break-word;
       position: relative;
+      & > p{
+        margin-top: 0;
+        margin-bottom: 0;
+      }
     }
     & > .bot-msg {
       align-self: flex-start;

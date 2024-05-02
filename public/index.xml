@@ -6,65 +6,65 @@
       <description>Last 10 notes on Synaptic Vault Test 🪴</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Map of Contents</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description> ***algoDesign map ***AI map ***comOrg map *** DSA map (OOP course) ***probStatAdvanced Map ***history 2 map .</description>
-    <pubDate>Sun, 07 Apr 2024 15:09:27 GMT</pubDate>
+    <title>forecasting future values in time series</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/forecasting-future-values-in-time-series</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/forecasting-future-values-in-time-series</guid>
+    <description>how to forecasting future values in time series forecasting by extrapolation: process of estimating beyond original range, the value of a variable, on the basis of its relationship ...</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>ordering in CSPs - minimum remaining values, least constraining value</title>
-    <link>https://quartz.jzhao.xyz/artificialIntelligence/ordering-in-CSPs---minimum-remaining-values,-least-constraining-value</link>
-    <guid>https://quartz.jzhao.xyz/artificialIntelligence/ordering-in-CSPs---minimum-remaining-values,-least-constraining-value</guid>
-    <description>Context Time: 06 04 2024 - 22:32 Tags:CSPs Child: Source: Minimum Remaining Valuesfc problem in improving backtracking: which variable should be assigned next? → MRV definition: ...</description>
-    <pubDate>Sat, 06 Apr 2024 15:32:45 GMT</pubDate>
+    <title>Moving averages</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/Moving-averages</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/Moving-averages</guid>
+    <description>what is moving average A series of arithmetic averages over a given number of time periods. It is the estimate of the long run average of the variable.</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>Prim&#039;s Algorithm</title>
-    <link>https://quartz.jzhao.xyz/DSA/Prim's-Algorithm</link>
-    <guid>https://quartz.jzhao.xyz/DSA/Prim's-Algorithm</guid>
-    <description>Context Time: 06 04 2024 - 21:55 Tags:MST Child: Source: Definition of Prim’s Algorithmfc Starts to build the MST from any vertex in the graph. Maintains two sets of vertices.</description>
-    <pubDate>Sat, 06 Apr 2024 13:51:38 GMT</pubDate>
+    <title>Multiplicative Model - finding seasonal percentage variations</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/Multiplicative-Model---finding-seasonal-percentage-variations</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/Multiplicative-Model---finding-seasonal-percentage-variations</guid>
+    <description>what is multiplicative model Y=T.S.R T: original units S &amp; R: percentages if R negligible (R ~1) → seasonal percentage: S=Y/T when does multiplicative outperform additive model ...</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>Kruskal&#039;s Algorithm</title>
-    <link>https://quartz.jzhao.xyz/DSA/Kruskal's-Algorithm</link>
-    <guid>https://quartz.jzhao.xyz/DSA/Kruskal's-Algorithm</guid>
-    <description>Context Time: 06 04 2024 - 21:51 Tags:MST Child: Source: Definition of Kruskalfc definition connected graph weighted edge result in a MST algo pick the smallest edge repeatedly look ...</description>
-    <pubDate>Sat, 06 Apr 2024 13:43:28 GMT</pubDate>
+    <title>Simple Linear Regression Model</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/Simple-Linear-Regression-Model</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/Simple-Linear-Regression-Model</guid>
+    <description>title note Linear regression Has the form (y=β0​​+β1​​+ϵ) Simple linear regression equation: (E(y)=β0​​+β1​​x) ϵ: random var referred to as error term In practice, β0​​ and β1​​ ...</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>*** DSA map (OOP course)</title>
-    <link>https://quartz.jzhao.xyz/DSA/***-DSA-map-(OOP-course)</link>
-    <guid>https://quartz.jzhao.xyz/DSA/***-DSA-map-(OOP-course)</guid>
-    <description> Kruskal’s Algorithm Prim’s Algorithm .</description>
-    <pubDate>Sat, 06 Apr 2024 13:26:20 GMT</pubDate>
+    <title>Stochastic process</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/Stochastic-process</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/Stochastic-process</guid>
+    <description>stochastic process X(t), t∈T A collection of random variables. For each t∈T, X(t) is a random variable The index t is often interpreted as time and X(t) is the state of the process at time t Eg.</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>Lab 5 algo des</title>
-    <link>https://quartz.jzhao.xyz/algoDesign/Lab-5-algo-des</link>
-    <guid>https://quartz.jzhao.xyz/algoDesign/Lab-5-algo-des</guid>
-    <description>Algorithm Design - Spring 2024 Pham Quynh Trang V202200890 Question 1: Algorithm Iterate through nodes in sorted order Remove each outgoing arc temporarily &amp; check if resulting ...</description>
-    <pubDate>Sat, 06 Apr 2024 13:21:17 GMT</pubDate>
+    <title>Time series</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/Time-series</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/Time-series</guid>
+    <description>Definition of time series: a series of figures or values recorder over time time series example Components: 4 components of time series: Time Series Trend A continuous long-term ...</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>Depth First Search - DFS</title>
-    <link>https://quartz.jzhao.xyz/algoDesign/Depth-First-Search---DFS</link>
-    <guid>https://quartz.jzhao.xyz/algoDesign/Depth-First-Search---DFS</guid>
-    <description>implementation def dfs(matrix, start): visited = [] stack = [start] while stack: vertex = stack.pop() if vertex not in visited: visited.append(vertex) for i in range(len(matrix)): ...</description>
-    <pubDate>Sat, 06 Apr 2024 02:04:27 GMT</pubDate>
+    <title>deseasonalization - removing variations to indicate trend</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/deseasonalization---removing-variations-to-indicate-trend</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/deseasonalization---removing-variations-to-indicate-trend</guid>
+    <description>what is deseasonalization process of removing variations to leave a figure indicating trend .</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>COMP2050 Homework 2</title>
-    <link>https://quartz.jzhao.xyz/artificialIntelligence/COMP2050-Homework-2</link>
-    <guid>https://quartz.jzhao.xyz/artificialIntelligence/COMP2050-Homework-2</guid>
-    <description>Problem 1: Variable: V={X1​,X2​,X3​} X1​: first student hired X2​: second student hired X3​: third student hired Domains: D={Chinh,Duy,Quang,Jason,Hoang,Hieu,Phuc} Constraints: ...</description>
-    <pubDate>Thu, 04 Apr 2024 07:36:26 GMT</pubDate>
+    <title>***probStatAdvanced Map</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/***probStatAdvanced-Map</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/***probStatAdvanced-Map</guid>
+    <description>probStatAdvanced Map Chapter 1: Simple Linear Regression Simple Linear Regression Model Chapter 2: Time series Finding trend in a time series graph Moving averages Additive Model ...</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>The Bellman Equation</title>
-    <link>https://quartz.jzhao.xyz/artificialIntelligence/The-Bellman-Equation</link>
-    <guid>https://quartz.jzhao.xyz/artificialIntelligence/The-Bellman-Equation</guid>
-    <description>Optimal Quantities The value (utility) of a state s: V∗(s)= maxa​Q∗(s,a)=maxa​∑s′​T(s,a,s′)[R(s,a,s′)+γV∗(s′)] expected utility starting in s and acting optimally The value ...</description>
-    <pubDate>Thu, 04 Apr 2024 02:22:48 GMT</pubDate>
+    <title>25 03 2024</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/25-03-2024</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/25-03-2024</guid>
+    <description>...</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item><item>
-    <title>utility of sequences in MDP</title>
-    <link>https://quartz.jzhao.xyz/artificialIntelligence/utility-of-sequences-in-MDP</link>
-    <guid>https://quartz.jzhao.xyz/artificialIntelligence/utility-of-sequences-in-MDP</guid>
-    <description>discounting of rewards maximize rewards now ⇒ values of rewards decay exponentially U=R0​+γR1​+γ2R2​+⋯ How to discount? Each time we descend a level, we multiply in the discount ...</description>
-    <pubDate>Wed, 03 Apr 2024 22:30:49 GMT</pubDate>
+    <title>Additive Model - finding seasonal component variations</title>
+    <link>https://quartz.jzhao.xyz/probStatAdvanced/Additive-Model---finding-seasonal-component-variations</link>
+    <guid>https://quartz.jzhao.xyz/probStatAdvanced/Additive-Model---finding-seasonal-component-variations</guid>
+    <description>what is additive model additive model: Y=T+S+R assume random component R is negligible, the seasonal component S is: S=Y−T (de-trended series) Y is the actual time series T is the ...</description>
+    <pubDate>Thu, 02 May 2024 01:10:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
